@@ -1,0 +1,10 @@
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/model/response/ChatGPTResponse.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/service/ChatGPTService.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/model/response/Usage.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/model/request/ChatGPTRequest.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/ChatBotUsingSpringBootAndChatGPTApplication.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/model/response/Choice.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/model/request/ChatBotInputRequest.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/model/common/Message.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/config/ApplicationConfig.java
+/home/rafael/Documents/repository/ichat/src/main/java/com/bootcamptoprod/controller/ChatGPTController.java
